@@ -18,7 +18,7 @@
 ### 1. دانلود و اجرای اسکریپت
 
 ```bash
-wget https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/whatsapp-bot-installer/main/install-whatsapp-bot.sh
+wget https://raw.githubusercontent.com/mil4d1/whatsapp-bot-installer/main/install-whatsapp-bot.sh
 chmod +x install-whatsapp-bot.sh
 ./install-whatsapp-bot.sh
 ```
